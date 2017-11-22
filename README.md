@@ -15,4 +15,4 @@ http://www.oversecurity.net/tag/rswpahack/
 
 ## Screen App
 
-<a href="https://rs9000.github.io/RS_Wpa_Hack_min.png"><img src="https://rs9000.github.io/RS_Wpa_Hack_min.png" align="left"></a>
+<a href="https://rs9000.github.io/assets/images/projects/RS_Wpa_Hack_min.png"><img src="https://rs9000.github.io/assets/images/projects/RS_Wpa_Hack_min.png" align="left"></a>
