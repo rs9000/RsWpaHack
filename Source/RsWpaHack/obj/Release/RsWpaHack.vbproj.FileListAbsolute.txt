@@ -1,0 +1,24 @@
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\bin\Release\RsWpaHack.exe
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\bin\Release\RsWpaHack.pdb
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\bin\Release\RsWpaHack.xml
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\bin\Release\RsSha256.dll
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\bin\Release\RsSha256.pdb
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.Form1.resources
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.Resources.resources
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.vbproj.GenerateResource.Cache
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.exe
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.xml
+C:\Users\Rs\Documents\Visual Studio 2008\Projects\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.pdb
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\bin\Release\RsWpaHack.exe
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\bin\Release\RsWpaHack.pdb
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\bin\Release\RsWpaHack.xml
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\bin\Release\RsSha256.pdb
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\obj\Release\ResolveAssemblyReference.cache
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.Form1.resources
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.Resources.resources
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.vbproj.GenerateResource.Cache
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.exe
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.xml
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.pdb
+I:\Programmazione\WMobile\RsWpaHack\RsWpaHack\obj\Release\RsWpaHack.Fastw.resources

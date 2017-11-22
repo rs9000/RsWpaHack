@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+
+<MagicNumbers>
+
+  <Table1>
+    <SSID>995</SSID>
+    <Serial>69102</Serial>
+    <k>13</k>
+    <q>99208960</q>
+   </Table1>
+ <Table1>
+    <SSID>992</SSID>
+    <Serial>67901</Serial>
+    <k>8</k>
+    <q>91539389</q>
+   </Table1>
+ <Table1>
+    <SSID>996</SSID>
+    <Serial>69102</Serial>
+    <k>13</k>
+    <q>96214846</q>
+    </Table1>
+  <Table1>
+    <SSID>361</SSID>
+    <Serial>67902</Serial>
+    <k>13</k>
+    <q>32720035</q>
+   </Table1>
+
+</MagicNumbers>
