@@ -1,5 +1,5 @@
 # RsWpaHack
-App Windows mobile 6.1 Test the security of Alice and Fastweb networks.
+App Windows mobile 6.1 to test the security of Alice and Fastweb networks.
 
 ### Reviews
 
